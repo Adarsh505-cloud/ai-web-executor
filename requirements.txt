@@ -1,0 +1,4 @@
+boto3==1.35.36
+pydantic==2.9.2
+playwright==1.47.2
+python-dotenv==1.0.1
